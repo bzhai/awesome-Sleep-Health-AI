@@ -1,1 +1,6 @@
-# awesome-Sleep-Health-AI
+# awesome-AI-sleep-health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Sleep is a crucial biological process, and has long been recognised as an essential determinant of human health and performance.It is now understood that the associations between diet, physical activity, mental health and sleep are bidirectional. Thus, poor sleep, high levels of inactivity and a poor diet comprise inter-related public health priorities. The mental and physical impairments associated with a single night of poor sleep can outweigh those caused by an equivalent lack of exercise or food.
+In recent years, AI for sleep and health has attracted the attention of the industry and academia. An up-to-date & curated list of Awesome IMU-based Human Activity Recognition(Ubiquitous Computing) papers, methods & resources.
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.

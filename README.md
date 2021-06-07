@@ -7,5 +7,5 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Papers
 ## Based on End-to-End Learning
 ### Based on Domain Knowledge
-- <a name="https://doi.org/10.1093/sleep/28.9.1151"></a> An Electrocardiogram-Based Technique to Assess Cardiopulmonary Coupling During Sleep (**Sleep**) This method adopted as the standard for Huawei Watch Sleep Monitoring
+- <a name="https://doi.org/10.1093/sleep/28.9.1151"></a> An Electrocardiogram-Based Technique to Assess Cardiopulmonary Coupling During Sleep (**Sleep**) This method is adopted as the standard for Huawei Watch Sleep Monitoring
 - <a name="https://dl.acm.org/doi/abs/10.1145/3397325"></a> Making Sense of Sleep: Multimodal Sleep Stage Classification in a Large, Diverse Population Using Movement and Cardiac Sensing (**IMWUT**)

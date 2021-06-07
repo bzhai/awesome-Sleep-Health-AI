@@ -5,7 +5,7 @@ In recent years, AI for sleep and health has attracted the attention of the indu
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 ## Background
-- <a name=>"https://dl.acm.org/doi/abs/10.1145/3397325"</a> Interdependency between heart rate variability and sleep EEG: linear/non-linear? (**Clinical Neurophysiology**)
+- <a name=></a> Interdependency between heart rate variability and sleep EEG: linear/non-linear? (**Clinical Neurophysiology**)
 
 ## Papers
 ### Based on Deep Learning/Machine Learning

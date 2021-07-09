@@ -16,6 +16,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - <a name=""></a> A machine learning-based test for adult sleep apnoea screening at home using oximetry and airflow (Nature, Scientific report) [[paper](https://www.nature.com/articles/s41598-020-62223-4)]
 - <a name="CPC"></a> Application of machine learning to predict obstructive sleep apnea syndrome severity [[paper](https://journals.sagepub.com/doi/pdf/10.1177/1460458218824725)]
 - <a name="MSS"></a> Making Sense of Sleep: Multimodal Sleep Stage Classification in a Large, Diverse Population Using Movement and Cardiac Sensing (**IMWUT**)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3397325)
+- <a name=""></a> Deep learning enables sleep staging from photoplethysmogram for patients with suspected sleep apnea (**Sleep**) [[Paper]](https://doi.org/10.1093/sleep/zsaa098)
+- <a name=""></a> Heart rate variability and obstructive sleep apnea: Current perspectives and novel technologies [[Paper]](https://doi.org/10.1111/jsr.13274)
+- <a name=""></a> Single Sensor Techniques for Sleep Apnea Diagnosis Using Deep Learning [[Paper]](https://ieeexplore.ieee.org/abstract/document/8031206)
 ### Based on Domain Knowledge
 - <a name="https://doi.org/10.1093/sleep/28.9.1151"></a> An Electrocardiogram-Based Technique to Assess Cardiopulmonary Coupling During Sleep (**Sleep**) This method is adopted as the standard for Huawei Watch Sleep Monitoring
 - <a name="BAS"></a> Big-Data, AI and Sleep[[paper]](https://academic.oup.com/sleep/pages/big-data-vi)

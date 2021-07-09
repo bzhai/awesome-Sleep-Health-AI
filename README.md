@@ -9,7 +9,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Papers
 ### Based on Deep Learning/Machine Learning
-- <a name="https://dl.acm.org/doi/abs/10.1145/3397325"></a> Making Sense of Sleep: Multimodal Sleep Stage Classification in a Large, Diverse Population Using Movement and Cardiac Sensing (**IMWUT**)
+- <a name="MSS"></a> Making Sense of Sleep: Multimodal Sleep Stage Classification in a Large, Diverse Population Using Movement and Cardiac Sensing (**IMWUT**)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3397325)
+- <a name="CPC"></a> Application of machine learning to predict obstructive sleep apnea syndrome severity [[paper](https://journals.sagepub.com/doi/pdf/10.1177/1460458218824725)]
 ### Based on Domain Knowledge
 - <a name="https://doi.org/10.1093/sleep/28.9.1151"></a> An Electrocardiogram-Based Technique to Assess Cardiopulmonary Coupling During Sleep (**Sleep**) This method is adopted as the standard for Huawei Watch Sleep Monitoring
-- <a name="https://academic.oup.com/sleep/pages/big-data-vi"></a> Big-Data, AI and Sleep
+- <a name="BAS"></a> Big-Data, AI and Sleep[[paper]](https://academic.oup.com/sleep/pages/big-data-vi)

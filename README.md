@@ -21,5 +21,5 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - <a name=""></a> Heart rate variability and obstructive sleep apnea: Current perspectives and novel technologies [[Paper]](https://doi.org/10.1111/jsr.13274)
 - <a name=""></a> Single Sensor Techniques for Sleep Apnea Diagnosis Using Deep Learning [[Paper]](https://ieeexplore.ieee.org/abstract/document/8031206)
 ### Based on Domain Knowledge
-- <a name="https://doi.org/10.1093/sleep/28.9.1151"></a> An Electrocardiogram-Based Technique to Assess Cardiopulmonary Coupling During Sleep (**Sleep**) This method is adopted as the standard for Huawei Watch Sleep Monitoring
+- <a name="https://doi.org/10.1093/sleep/28.9.1151"></a> An Electrocardiogram-Based Technique to Assess Cardiopulmonary Coupling During Sleep (**Sleep**)(This method is adopted as the standard for Huawei Watch Sleep Monitoring)
 - <a name="BAS"></a> Big-Data, AI and Sleep[[paper]](https://academic.oup.com/sleep/pages/big-data-vi)

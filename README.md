@@ -13,8 +13,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 #### 2021
 - <a name=""></a> XSleepNet: Multi-view sequential model for automatic sleep staging (**T-PAMI**) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9392272) 
 - <a name=""></a> Heart rate variability and obstructive sleep apnea: Current perspectives and novel technologies [[Paper]](https://doi.org/10.1111/jsr.13274)
-- <a name=""></a> Ubi-SleepNet: Advanced Multimodal Fusion Techniques for Three-stage Sleep Classification Using Ubiquitous Sensing [[Paper]](https://dl.acm.org/doi/10.1145/3494961)
-- <a name=""></a> A deep transfer learning approach for wearable sleep stage classification with photoplethysmography [[Paper]](https://www.nature.com/articles/s41746-021-00510-8)
+- <a name=""></a> Ubi-SleepNet: Advanced Multimodal Fusion Techniques for Three-stage Sleep Classification Using Ubiquitous Sensing (**IMWUT**) [[Paper]](https://dl.acm.org/doi/10.1145/3494961)
+- <a name=""></a> A deep transfer learning approach for wearable sleep stage classification with photoplethysmography (**Nature NPJ Digital Medicine**) [[Paper]](https://www.nature.com/articles/s41746-021-00510-8)
 #### 2020
 - <a name=""></a> Deep Learning for Diagnosis and Classification of Obstructive Sleep Apnea: A Nasal Airflow-Based Multi-Resolution Residual Network (Nature, Scientific report) [[paper](https://www.dovepress.com/deep-learning-for-diagnosis-and-classification-of-obstructive-sleep-ap-peer-reviewed-fulltext-article-NSS)]
 - <a name=""></a> A machine learning-based test for adult sleep apnoea screening at home using oximetry and airflow (Nature, Scientific report) [[paper](https://www.nature.com/articles/s41598-020-62223-4)]
